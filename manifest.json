@@ -22,5 +22,10 @@
 
   "background": {
     "scripts": ["yip-permutator.js"]
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{4c5442b2-29db-42f8-8549-1908818b4434}"
+    }
   }
 }
