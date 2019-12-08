@@ -23,4 +23,4 @@ The downside is, that you have to install it every time you want to use it, usin
 
 3. Press "Load Temporary Add-on"
 
-4. Choose the xpi file.
+4. Choose the zip file.
