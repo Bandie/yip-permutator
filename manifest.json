@@ -1,0 +1,26 @@
+{
+  "author": "Bandie",
+  "developer": {
+    "name": "Bandie",
+    "url": "https://github.com/Bandie/yip-permutator"
+  },
+  "description": "Scrambles texts to have it readable only to those using this plugin",
+  "manifest_version": 2,
+  "name": "Yip Permutator",
+  "version": "1.0",
+  "applications": {
+    "gecko": {
+      "strict_min_version": "56.0a1"
+    }
+  },
+
+  "permissions" : [
+    "menus",
+    "activeTab"
+  ],
+  
+
+  "background": {
+    "scripts": ["yip-permutator.js"]
+  }
+}
