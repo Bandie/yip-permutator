@@ -15,9 +15,9 @@ Yip! <scrambled text> Yip yip!
 ## Installation
 
 Since this addon is not signed by Mozilla, you need to install it as developing addon.
-The downside is, that you have to install it every time you want to use it, using the XPI file:
+The downside is, that you have to install it every time you want to use it, using the ZIP file:
 
-1. Download the [XPI file](https://github.com/Bandie/yip-permutator/releases/download/1.0/yip-permutator.zip).
+1. Download the [ZIP file](https://github.com/Bandie/yip-permutator/releases/download/1.0/yip-permutator.zip).
 
 2. Open `about:debugging#/runtime/this-firefox`
 
